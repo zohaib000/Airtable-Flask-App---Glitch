@@ -2,3 +2,5 @@ flask
 bs4
 lxml
 requests
+airtable-python-wrapper==0.15.3
+mailchimp-marketing @ git+https://github.com/mailchimp/mailchimp-marketing-python.git@3305fa45b3f436767a539c5fba9cb2b0a083d761
